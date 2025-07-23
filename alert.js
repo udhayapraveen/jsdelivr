@@ -1,3 +1,2 @@
-<script>
-  alert(document.cookie)
-  </script>
+alert(document.cookie)
+
